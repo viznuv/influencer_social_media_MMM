@@ -47,8 +47,8 @@ The repository includes advanced visualization tools to understand channel perfo
 ### Installation
 
 ```bash
-git clone https://github.com/viznuv/Influencer marketing_social_media_MMM.git
-cd Influencer marketing_social_media_MMM
+git clone https://github.com/viznuv/influencer_social_media_MMM.git
+cd influencer_social_media_MMM
 pip install -r requirements.txt
 ```
 
