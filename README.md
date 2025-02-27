@@ -7,6 +7,9 @@ This repository presents an advanced Marketing Mix Modeling (MMM) framework that
 
 The analysis demonstrates that social media and influencer marketing exhibit significantly different ROI patterns and response curves compared to traditional channels. Our findings suggest that these channels benefit from higher base effectiveness but require specialized modeling approaches to accurately measure their impact. The framework also quantifies synergistic effects between digital, social, and influencer marketing, providing marketers with actionable insights for optimal budget allocation.
 
+![decomposition](https://github.com/user-attachments/assets/52f40c6a-c68f-4211-aad0-8f4576c2aa49)
+
+
 ## Key Features
 
 - **Extended Adstock Models**: Specialized adstock transformations for social media (short memory) and influencer channels (medium memory)
@@ -15,6 +18,9 @@ The analysis demonstrates that social media and influencer marketing exhibit sig
 - **Authenticity Factors**: Non-linear modeling for influencer marketing effectiveness
 - **Channel Interaction Analysis**: Cross-channel synergies between digital, social, and influencer channels
 - **Comprehensive Visualization Suite**: Response curves, ROI comparisons, and budget optimization tools
+
+  ![image](https://github.com/user-attachments/assets/1e3524f3-b8fb-41a8-8ac4-643a46f3a1a2)
+
 
 ## Framework Comparison
 
@@ -68,6 +74,9 @@ simulation_results = results['simulation_results']
 from visualization_utils import save_mmm_visualizations
 save_mmm_visualizations(results)
 ```
+
+![Channel response curves1](https://github.com/user-attachments/assets/5617155b-74a2-4f09-9fd5-32661184b71f)
+
 
 ## Key Findings
 
