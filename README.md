@@ -1,4 +1,4 @@
-# influencer_social_media_MMM
+# Influencer marketing_social_media_MMM
 # Social Media Impact in Marketing Mix Models: Advanced Analytical Framework
 
 ## Abstract
